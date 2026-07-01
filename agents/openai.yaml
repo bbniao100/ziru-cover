@@ -1,0 +1,4 @@
+interface:
+  display_name: "子儒封面"
+  short_description: "用脚本和主图生成封面或完整提示词"
+  default_prompt: "Use $ziru-cover to turn my video script and main image into high-click covers, or complete image-generation prompts if image tools are unavailable."
